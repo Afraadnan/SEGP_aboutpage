@@ -1,6 +1,6 @@
 import React from "react";
 import './App.css'; // Assuming you have your CSS styles in this file
-import gifBg from './intro.gif'; // Import your GIF file
+//import gifBg from './intro.gif'; // Import your GIF file
 
 
 const RectangleWithText = ({ width, height, backgroundColor, borderColor, text }) => {
