@@ -6,7 +6,7 @@ function App() {
   const [data, setData] = useState({
     name: "Afra",
     age: 0,
-    date: "trying",
+   
     programming: "python",
   });
 
