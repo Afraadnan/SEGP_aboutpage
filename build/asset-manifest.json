@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Afraadnan/SEGP_aboutpage/tree/main/static/css/main.72d89e85.css",
+    "main.js": "/Afraadnan/SEGP_aboutpage/tree/main/static/js/main.c96cf8d5.js",
+    "static/js/453.8ab44547.chunk.js": "/Afraadnan/SEGP_aboutpage/tree/main/static/js/453.8ab44547.chunk.js",
+    "static/media/intro3.gif": "/Afraadnan/SEGP_aboutpage/tree/main/static/media/intro3.7afbc2c4389bcc3662ae.gif",
+    "index.html": "/Afraadnan/SEGP_aboutpage/tree/main/index.html",
+    "main.72d89e85.css.map": "/Afraadnan/SEGP_aboutpage/tree/main/static/css/main.72d89e85.css.map",
+    "main.c96cf8d5.js.map": "/Afraadnan/SEGP_aboutpage/tree/main/static/js/main.c96cf8d5.js.map",
+    "453.8ab44547.chunk.js.map": "/Afraadnan/SEGP_aboutpage/tree/main/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72d89e85.css",
+    "static/js/main.c96cf8d5.js"
+  ]
+}
