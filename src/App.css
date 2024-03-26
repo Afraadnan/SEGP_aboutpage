@@ -1,0 +1,64 @@
+.App {
+  text-align:left;
+  
+}
+ body {
+  background-image: url('./intro3.gif'),linear-gradient(rgba(0, 0, 0, 0.5), rgba(8, 2, 44, 0.5));
+  background-size:cover; /* Adjust sizing of the background image */
+  background-position:cover ; /* Center the background image */
+  Margin :0;
+  Padding:0;
+
+ }
+
+ .App.container{
+
+  display: 'flex';
+  justify-content: center; /* Align items horizontally at the center */
+  align-items: center; /* Align items vertically at the center */
+  height: 100vh;
+ }
+ .RectangleWithText  {
+        width:"800px" ;
+        height:"400px" ;
+    
+        }
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  margin:0;
+  margin-top: 0;
+  padding: 0;
+  background-color: rgb(175, 168, 186);
+  min-height: fit-content;
+  max-height:12vh; 
+  display:flex;
+  opacity: 0.25;
+  align-items:self-start;
+  justify-content: center;
+  font-size: calc(5px + 2vmin);
+  color: rgb(5, 6, 74);
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
