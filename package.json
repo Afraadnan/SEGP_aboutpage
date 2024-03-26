@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:5000/",
- "homepage": "https://afraadnan.github.io/SEGP_aboutpage",
+ "homepage": "https://github.com/Afraadnan/SEGP_aboutpage/tree/main/",
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
