@@ -10,7 +10,7 @@
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
-   "homepage": "https://github.com/Afraadnan/SEGP_aboutpage.gits/localhost:3000/"
+   "homepage": "https://github.com/Afraadnan/SEGP_aboutpage.gits"
   },
   "scripts": {
     "start": "react-scripts start",
